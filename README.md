@@ -2,7 +2,7 @@
 ### A simple IP locator tool
 #### Author - [Tohidkhan6332](https://github.com/Tohidkhan6332/)
 
-![Screenshot from 2020-11-08 10-46-44](https://user-images.githubusercontent.com/32305505/98457964-dcaa2c00-21b1-11eb-81a1-e8eb3b3968be.jpg)
+
 
 
 
